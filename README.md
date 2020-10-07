@@ -8,7 +8,7 @@ Phaser3 supports a graphics plugin for *pseudo-3D* effect, it may offer potentia
 This demonstrates a space watchtower shooting randomly the orbiting spheres, scroll your mousewheel and let the tower destroy the spheres, zoom in and out with up and down arrows
 
 <p align="center">
-<img width="460" height="300" src="assets/shooting-tower-3D.gif">
+<img width="800" height="auto" src="assets/shooting-tower-3D.gif">
 </p>
 
 ### feature
