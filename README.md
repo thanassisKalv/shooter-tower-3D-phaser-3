@@ -7,6 +7,8 @@ Phaser3 supports a graphics plugin for *pseudo-3D* effect, it may offer potentia
 
 This demonstrates a space watchtower shooting randomly the orbiting spheres, scroll your mousewheel and let the tower destroy the spheres, zoom in and out with up and down arrows
 
+![](assets/shooting-tower-3D.gif)
+
 ### feature
  - could not make the animationManager work for me with the Sprite3D, I worked-around it using time.event with setTexture
  - a more advanced goal is to inject some physics for the shooting instead of simply activating explosion effects
